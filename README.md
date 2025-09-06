@@ -2,6 +2,7 @@
 
 A 4-page static website built for CS648. 
 ## Pages 
+(All pages are inside vectacrop folder)
 - index.html – Home 
 - aboutus.html – About Us 
 - solutions.html – Our Solutions 
